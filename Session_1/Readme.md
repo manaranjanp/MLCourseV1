@@ -12,8 +12,6 @@ Notebooks and datasets for Session 1.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLCourseV1/blob/main/Session_1/Stock_Analysis_v1.ipynb)
 
-https://github.com/manaranjanp/MLCourseV1/blob/main/
-
 ### 2. Customer Age Analysis
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLCourseV1/blob/main/Session_1/Customer_Age_Analysis_v1.ipynb)
