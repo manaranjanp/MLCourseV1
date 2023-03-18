@@ -9,6 +9,10 @@ How correlation is often used in portfolio management to measure the amount of d
 2. Are there any sectors which have weak relationship with sensex? 
 3. How to select stocks or stocks from specic sectors to create a portifoio that reduces the overall risk?
 
-### 1. Stock Analysis
+### 1. Correlation Analysis
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLCourseV1/blob/main/Session_2/Correlation_Analysis_V1.ipynb)
+
+### 2. Analytical Variables
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLCourseV1/blob/main/Session_2/Analytical_Variables.ipynb)
