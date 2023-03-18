@@ -3,7 +3,7 @@ Notebooks and datasets for Session 2.
 ### The key statistical concepts that will be explored this session are:
 
 - What is correlation and how to measure the strengh of correlation?
-- Application of correlation in real world. For example, how correlation is often used in portfolio management to measure the amount of diversification among the assets contained in a portfolio. For example:
+- Application of correlation in real world. For example, how correlation is often used in portfolio management to measure the amount of diversification among the assets contained in a portfolio.
 
 ### 1. Correlation Analysis
 
