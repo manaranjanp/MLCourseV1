@@ -2,11 +2,8 @@ Notebooks and datasets for Session 2.
 
 ### The key statistical concepts that will be explored this session are:
 
-How correlation is often used in portfolio management to measure the amount of diversification among the assets contained in a portfolio. For example:
-
-1. Does the sectoral index goes up when the market index goes up. How strong or weak this movement are?
-2. Are there any sectors which have weak relationship with sensex? 
-3. How to select stocks or stocks from specic sectors to create a portifoio that reduces the overall risk?
+- What is correlation and how to measure the strengh of correlation?
+- Application of correlation in real world. For example, how correlation is often used in portfolio management to measure the amount of diversification among the assets contained in a portfolio. For example:
 
 ### 1. Correlation Analysis
 
