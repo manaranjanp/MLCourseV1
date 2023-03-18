@@ -9,7 +9,7 @@ Notebooks and datasets for Session 2.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLCourseV1/blob/main/Session_2/Correlation_Analysis_V1.ipynb)
 
-Explore different variable types in analytics or statistics in the following notebook.
+- Explore different variable types in analytics or statistics in the following notebook.
 
 ### 2. Analytical Variables
 
