@@ -12,6 +12,8 @@ Manaranjan Pradhan
 | Session 4 | [Exploratory Data Analysis - 1](https://youtu.be/0nBp5FgdAQQ) | [Session 4 - Notebooks](https://github.com/manaranjanp/MLCourseV1/tree/main/Session_4) |
 | Session 5 | [Exploratory Data Analysis - 2](https://youtu.be/P6Qb5tBb8Pc) | [Session 5 - Notebooks](https://github.com/manaranjanp/MLCourseV1/tree/main/Session_5) |
 | Session 6 | [ML Overview & Regression - 1](https://youtu.be/AGR-x1A8FBg) | [Session 6 - Notebooks](https://github.com/manaranjanp/MLCourseV1/tree/main/Session_6) |
+| Session 6 | [ML Overview & Regression - 1](https://youtu.be/AGR-x1A8FBg) | [Session 6 - Notebooks](https://github.com/manaranjanp/MLCourseV1/tree/main/Session_6) |
+
 
 
 
